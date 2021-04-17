@@ -1,0 +1,4 @@
+.tabbrowser-tab[usercontextid] > .tab-stack > .tab-background > .tab-background-inner, .tab-bottom-line {
+  background: var(--identity-tab-color) !important;
+  opacity: 0.5;
+}
