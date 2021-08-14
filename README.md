@@ -4,9 +4,9 @@
 Kolorowe zakładki kontekstowe mają za zadanie sprawić, żeby poszczególne zakładki w przeglądarce Mozilla Firefox były bardziej przejrzyste. Najłatwiej jest pokazać to na przykładzie.
 
 Przed:
-![Przed](https://i.imgur.com/oAsDJsA.jpg)
+![Przed](https://i.imgur.com/wqF1scO.jpeg)
 Po:
-![Po](https://i.imgur.com/35Rb0DP.jpg)
+![Po](https://i.imgur.com/xKEJARp.jpeg)
 
 ### Instalacja
 1. Przejdź pod adres "**about:config**", akceptuj ryzyko i w wyszukiwarce wpisz: "**toolkit.legacyUserProfileCustomizations.stylesheets**". Domyślna wartość tego ustawienia to **false**, kliknij dwukrotnie na to ustawienie aby zmienić na **true**.
@@ -24,9 +24,9 @@ Po:
 Colored contextual tabs are designed to make individual tabs in Mozilla Firefox more transparent. It's easiest to show this with an example.
 
 Before:
-![Before](https://i.imgur.com/oAsDJsA.jpg)
+![Before](https://i.imgur.com/wqF1scO.jpeg)
 After:
-![After](https://i.imgur.com/35Rb0DP.jpg)
+![After](https://i.imgur.com/xKEJARp.jpeg)
 
 ### Installation
 1. Go to "**about:config**" in your browser, accept rish and type in the search bar: "**toolkit.legacyUserProfileCustomizations.stylesheets**". The default value of this setting is false, double-click this setting to change it to true.

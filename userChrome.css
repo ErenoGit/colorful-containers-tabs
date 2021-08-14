@@ -1,4 +1,9 @@
-.tabbrowser-tab[usercontextid] > .tab-stack > .tab-background > .tab-background-inner, .tab-bottom-line {
+.tabbrowser-tab[usercontextid] > .tab-stack > .tab-background {
   background: var(--identity-tab-color) !important;
   opacity: 0.5;
+}
+
+.tabbrowser-tab > .tab-stack >  .tab-background[selected="true"] > .tab-context-line {
+  height: 5px !important;
+  background: blue !important;
 }
